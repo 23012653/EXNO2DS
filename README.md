@@ -121,6 +121,7 @@ sns.pairplot(df)
 ```
 ![image](https://github.com/user-attachments/assets/9ae10350-e571-4c05-b270-afafd56c3200)
 
+![image](https://github.com/user-attachments/assets/49e671af-9496-473d-83b3-b48a433c23a9)
 
 # RESULT
         Thus, the Exploratory Data Analysis on the given data set was performed successfully.
