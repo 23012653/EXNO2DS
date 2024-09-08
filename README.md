@@ -124,4 +124,4 @@ sns.pairplot(df)
 ![image](https://github.com/user-attachments/assets/49e671af-9496-473d-83b3-b48a433c23a9)
 
 # RESULT
-        Thus, the Exploratory Data Analysis on the given data set was performed successfully.
+Thus, the Exploratory Data Analysis on the given data set was performed successfully.
